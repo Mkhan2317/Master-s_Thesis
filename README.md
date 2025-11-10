@@ -61,7 +61,7 @@ This repository contains the full codebase, data outputs, and figures for my mas
 
 If you reference this work, please cite the thesis:
 
-> Joy Das, “LLM-Assisted Portfolio Construction,” Master’s Thesis, 2025.
+> MD Amir Khan, “LLM-Assisted Portfolio Construction,” Master’s Thesis, 2025.
 
 ## Contact
 
