@@ -1,4 +1,4 @@
-# Master’s Thesis – LLM-Assisted Portfolio Construction
+# Master’s Thesis – AI-Augmented Portfolio optimization
 
 This repository contains the full codebase, data outputs, and figures for my master’s thesis on combining large language model (LLM) investor views with quantitative portfolio optimization. The project experiments with multiple LLMs, converts their qualitative forecasts into structured views, and evaluates the resulting asset allocations against traditional baselines.
 
